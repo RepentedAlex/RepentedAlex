@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RepentedAlex
-- 👀 I’m interested in sports, video games and I am also a little bit into web developement
-- 🌱 I’m currently doing Information/Communication studies
+## 🖥️ Tronc Commun 42
+```De Libft à ft_transcendance```
+
 
 <!---
 RepentedAlex/RepentedAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
