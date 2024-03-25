@@ -6,7 +6,7 @@
 | 1  | Libft         |    ✅   | 9   | philosophers  |    🔒   | 19  | CPP Module 07    |    🔒   |
 | 2  | Born2beroot   |    📝   | 10A | cub3d         |    🔒   | 20  | CPP Module 08    |    🔒   |
 | 3  | ft_printf     |    ✅   | 10B | miniRT        |    🔒   | 21  | CPP Module 09    |    🔒   |
-| 4  | get_next_line |    📝   | 11  | CPP Module 00 |    🔒   | 22A | webserv          |    🔒   |
+| 4  | get_next_line |    ✅   | 11  | CPP Module 00 |    🔒   | 22A | webserv          |    🔒   |
 | 5A | so_long       |    🔒   | 12  | CPP Module 01 |    🔒   | 22B | ft_irc           |    🔒   |
 | 5B | FdF           |    🔒   | 13  | CPP Module 02 |    🔒   | 23  | Inception        |    🔒   |
 | 5C | fract-ol      |    🔒   | 14  | CPP Module 03 |    🔒   | 24  | ft_transcendence |    🔒   |
