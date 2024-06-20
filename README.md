@@ -11,7 +11,7 @@
 | 5B | FdF           |    🔒   | 13  | CPP Module 02 |    🔒   | 23  | Inception        |    🔒   |
 | 5C | fract-ol      |    🔒   | 14  | CPP Module 03 |    🔒   | 24  | ft_transcendence |    🔒   |
 | 6A | minitalk      |    🔒   | 15  | CPP Module 04 |    🔒   |     |                  |        |
-| 6B | pipex         |    📝   | 16  | NetPractice   |    🔒   |     |                  |        |
+| 6B | pipex         |    ✅   | 16  | NetPractice   |    🔒   |     |                  |        |
 | 7  | [push_swap](https://github.com/RepentedAlex/push_swap)     |    📝   | 17  | CPP Module 05 |    🔒   |     |                  |        |
 | 8  | minishell     |    🔒   | 18  | CPP Module 06 |    🔒   |     |                  |        |
 
