@@ -13,7 +13,7 @@
 | 6A | [minitalk](https://github.com/RepentedAlex/minitalk)      |    🔒   | 15  | CPP Module 04 |    🔒   |     |                  |        |
 | 6B | [pipex](https://github.com/RepentedAlex/pipex)         |    ✅   | 16  | NetPractice   |    🔒   |     |                  |        |
 | 7  | [push_swap](https://github.com/RepentedAlex/push_swap)     |    ✅   | 17  | CPP Module 05 |    🔒   |     |                  |        |
-| 8  | minishell     |    📝   | 18  | CPP Module 06 |    🔒   |     |                  |        |
+| 8  | [minishell](https://github.com/RepentedAlex/minishell)     |    📝   | 18  | CPP Module 06 |    🔒   |     |                  |        |
 
 <!---
 RepentedAlex/RepentedAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
