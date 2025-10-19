@@ -23,6 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" alt="TypeScript" width="45"/>
 </p>
 
+# Currently on repeat
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000601.3c6d5595ed584b6d93dc4d6692fda9a3.2107)](https://music-profile.rayriffy.com)
+
 <!---
 RepentedAlex/RepentedAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
