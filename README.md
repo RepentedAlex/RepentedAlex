@@ -1,3 +1,5 @@
+![RepentedAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=RepentedAlex&show_icons=true&theme=transparent)
+
 ## 🖥️ Tronc Commun 42
 ```De Libft à ft_transcendance```
 
