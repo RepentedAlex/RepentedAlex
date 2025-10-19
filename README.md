@@ -15,6 +15,14 @@
 | 7  | [push_swap](https://github.com/RepentedAlex/push_swap)     |    ✅   | 17  | [CPP Module 05](https://github.com/RepentedAlex/CPP-Module-05) |    ✅   |     |                  |        |
 | 8  | [minishell](https://github.com/RepentedAlex/mini.s.hell)     |    ✅   | 18  | [CPP Module 06](https://github.com/RepentedAlex/CPP-Module-06) |    📝   |     |                  |        |
 
+# Learnt
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" alt="C" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" alt="C++" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" alt="TypeScript" width="45"/>
+</p>
+
 <!---
 RepentedAlex/RepentedAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
